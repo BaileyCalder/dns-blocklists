@@ -1,4 +1,4 @@
-[Adblock Plus]
+rokland[Adblock Plus]
 ! Title: HaGeZi's Gambling DNS Blocklist - mini version
 ! Description: Blocks gambling content.
 ! Homepage: https://github.com/hagezi/dns-blocklists
@@ -67004,7 +67004,6 @@
 ||roket365.net^
 ||roketbetz.com^
 ||roketfp.org^
-||store.rokland.com^
 ||rokokbetjaya.com^
 ||rokokslotasli.com^
 ||roku-casino.top^
