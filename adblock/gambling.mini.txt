@@ -1,4 +1,4 @@
-rokland[Adblock Plus]
+[Adblock Plus]
 ! Title: HaGeZi's Gambling DNS Blocklist - mini version
 ! Description: Blocks gambling content.
 ! Homepage: https://github.com/hagezi/dns-blocklists
